@@ -1,8 +1,7 @@
 An Internal Project: redditnews
 -------------------------------
 
-![baby-gopher](https://raw.github.com/drnic/babygopher-site/gh-pages/images/babygopher-ba\
-dge.png)(http://www.babygopher.org)
+![Gopher image](doc.jpg)
 
 These projects specifications were given to a "Baby Gopher".
 
